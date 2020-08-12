@@ -1,0 +1,24 @@
+1:
+  vip: vip1
+  price: 2000
+  commands:
+    - 'vipsys give %player% vip1 30d'
+    - 'tm bc 恭喜老板 %player%\n 续费VIP1'
+2:
+  vip: vip2
+  price: 5600
+  commands:
+    - 'vipsys give %player% vip2 30d'
+    - 'tm bc 恭喜老板 %player%\n 续费VIP2'
+3:
+  vip: vip3
+  price: 11000
+  commands:
+    - 'vipsys give %player% vip3 30d'
+    - 'tm bc 恭喜老板 %player%\n 续费VIP3'
+4:
+  vip: svip
+  price: 24000
+  commands:
+    - 'vipsys give %player% svip 30d'
+    - 'tm bc 恭喜老板 %player%\n 续费SVIP'

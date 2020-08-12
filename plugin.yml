@@ -1,0 +1,7 @@
+name: RenewalVip
+version: 0.2
+author: henryw
+main: xyz.qmzc.RenewalVip.Main
+depend: [PlayerPoints]
+commands:
+  rv:
